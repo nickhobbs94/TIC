@@ -24,9 +24,14 @@ instances:
   deftcnv:
     pos: main.deftcnv
     type: deftcnv
+  #deffcnv
+  #defvar
   defhie:
     pos: main.defhie
     type: defhie
+  #defeoem?
+  #codeoem
+  #linksfc
   defoem:
     pos: main.defoem
     type: defoem
